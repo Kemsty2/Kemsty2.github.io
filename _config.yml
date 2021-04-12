@@ -1,7 +1,7 @@
 # Site
 name: "Aymard Moyo"
 title: "Aymard Moyo"
-description: "Aymard Moyo Personal Blog"
+description: "Blog Personnel de Aymard Moyo"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -10,6 +10,16 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+
+authors:
+  aymard:
+    name: Aymard Moyo
+    display_name: Aymard Moyo
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: king.kemsty@gmail.com
+    web: https://www.kingkemsty.code
+    twitter: https://twitter.com/kemsty2
+    description: "Author of Aymard's Blog, a Fancy Tech Blog about some coding topics i love. (.Net, DevOps, ReactJs, etc...)"
 
 # Plugins
 plugins:
